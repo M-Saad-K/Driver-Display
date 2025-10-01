@@ -1,7 +1,7 @@
 //Finlay Robb 2025.02.05
 //Muhammad Saad Khan 2025.02.09
 
-//Section 1 - Main Display and Test
+//Section 1 - Main Display and Test:
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
